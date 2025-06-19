@@ -5,6 +5,8 @@
 ## Overview
 This repository contains a **Decision Tree Classifier** that predicts a person's **job type** based on financial and demographic data from the **Bank Marketing dataset**.
 
+It's a part of the SkillCraft Technology Task 3 Submission.
+
 ## 📂 Folder Structure
 ```
 /DecisionTreeClassifier
