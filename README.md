@@ -17,7 +17,7 @@ It's a part of the SkillCraft Technology Task 3 Submission.
 │-- README.md                     # Project documentation
 ```
 Gemini said
-![Project Thumbnail](Screenshot%202026-03-30%20224455.png)
+![Project Thumbnail](output\Screenshot%202026-03-30%20224455.png)
 
 
 ## 🛠 Installation & Usage
